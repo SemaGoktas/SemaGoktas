@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sema</h1>
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [semagoktas.dev](semagoktas.dev)
-
 - 📫 How to reach me **semagoktas99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
