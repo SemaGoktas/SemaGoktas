@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sema</h1>
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **semagoktas99@gmail.com**
 
