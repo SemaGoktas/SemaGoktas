@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sema Göktas
+# Hi there! 👋 I'm Sema Göktaş
 
 <div align="center">
 
@@ -102,19 +102,6 @@ A sophisticated web application that analyzes CVs using AI to provide compatibil
 ✅ Responsive Design
 ✅ Error Handling & Validation
 ```
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SemaGoktas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemaGoktas&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SemaGoktas&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 💡 Current Focus
 
